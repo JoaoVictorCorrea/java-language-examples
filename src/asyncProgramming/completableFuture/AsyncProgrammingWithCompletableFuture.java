@@ -1,6 +1,4 @@
-package AsyncProgramming;
-
-import java.util.concurrent.CompletableFuture;
+package asyncProgramming.completableFuture;
 
 public class AsyncProgrammingWithCompletableFuture {
 

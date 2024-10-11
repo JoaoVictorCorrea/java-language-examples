@@ -1,4 +1,6 @@
-package AsyncProgramming;
+package asyncProgramming.completableFuture;
+
+import asyncProgramming.PokemonAbilityFetch;
 
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
